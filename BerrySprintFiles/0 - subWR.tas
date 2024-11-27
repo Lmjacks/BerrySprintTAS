@@ -1,4 +1,4 @@
-#32:06.338
+#21:23.330
 #Start from Begin
 
 Read,StartFullGameFile
@@ -15,17 +15,13 @@ Read,2A,Start
 
 Read,LoadA
 
-Read,3HC,Start,lvl_09-d
-
-Read,3A,lvl_09-d
+Read,3A,Start
 
 Read,LoadA
 
-Read,4A,Start,lvl_b-00
+Read,4A,Start
 
-Read,4HC,lvl_b-00
-
-Read,LoadA
+Read,LoadANoCollects
 
 Read,5HC,Start,lvl_b-17 (1)
 
@@ -119,22 +115,12 @@ Add 1
 
 Read,7A,Start
 
-Read,LoadCoreFromSummit
+Read,LoadCoreFromSummit,0,Epilogue
 
-Read,8A,Start
-
-Read,LoadAFromB,0,Summit
-  46
-Add 1
-
-Read,9,Start
-
-#Epilogue
+Read,0 - Epilogue,Start
+ 300
+   1,J
 Add 58
-  51
-   1,X
-  42
-   1,L
-   9
-   1,L
-Read,LoadJournal
+ 427
+
+Read,LoadJournal,0,Any%
