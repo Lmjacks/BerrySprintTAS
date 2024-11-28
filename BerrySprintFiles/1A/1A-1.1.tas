@@ -140,35 +140,56 @@ console load 1
    2,R
   18,R
   11,L,J
+# start_berry
    1,K,G
-   2,R,K
-  16,U,X
+   3,R,K
+  15,U,X
   43
 
 #lvl_6
-  14,R,J
-  15,U,Z
-   1,L,J,G
-   7,L
-  14,L,D,X
+  11,R,J
+   2,J
    1,R,J
-  14,R,U,X
-   4,R,J,G
-   7,R
-   5,R,J
-   2,R,K,G
-   5,R
-  10,R,J,G
-   9,R
+   1,J
+   1,R,J
+  15,U,X
    2,R,J
-   7,R
-  43
+   1,J
+   6,R,J
+   1,R,K,G
+   9,R,J,G
+   9,R
+   1,R,J
+  27,R,D
+   4,R
+   2,R,D
+   1,R
+  14,R,Z
+   1,L,J
+  15,R,X
+  10,R,U,Z
+   1,L
+   1,J
+   9,K,G
+   1
+   6,R,K
+   1,R
+   2,R,J
+   5,R,X
+   4,R,J
+  40
 
 #lvl_6a
-   5,R
-  16,L
-  13,L,D
+   1,R,J
+   1,R
+  18,L
+  11,L,D
+   3
   18,R,D,X
+#0:18.020(1060)
+#0:17.374(1022)
+# 1699.151 xpos
+# end_berry
    8,R,J
   10,U,X
   25,R,J

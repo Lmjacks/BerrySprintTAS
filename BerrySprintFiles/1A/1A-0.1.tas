@@ -1,3 +1,4 @@
+#sunny supremacy
 console load 1
    1
 
@@ -60,21 +61,31 @@ console load 1
 #lvl_3
    2,R,J,G
   15,R,K,G
-   1,K
+   1
   12,U,X
-   2,J
-   5
-   1,R
-   2
-   2,K
-   6,L
-   5,L,Z
+# start_berry
+   2,R,J
+  11,R
+   2,R,J
+  14,R,D,X
    1,R,J
-   2
-   2,R
-  21,R,D,J
-  12,K,G
-  16,U,X
+   3,R
+   2,R,K
+  11,R
+   1,R,D
+   3,R
+  16,R,U,X
+   1,J
+   1,K
+  12,L,J
+   8,L,K,G
+   7,L
+   7,J
+   4,L,J
+  14,U,X
+#0:06.919(407)
+#0:06.239(367)
+# end_berry
   40
 
 #lvl_4
