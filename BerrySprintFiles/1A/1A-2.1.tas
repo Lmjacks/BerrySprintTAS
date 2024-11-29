@@ -28,7 +28,7 @@ console load 1 lvl_9b
    2,J
   40
 
-#lvl_10 (0)
+#lvl_10
    6,L
    1,L,J,G
    1,L,K,G
@@ -68,64 +68,12 @@ console load 1 lvl_9b
    6,R
   10,R,J
   14,R,U,X
-   7,R,J,G
-  16,R
-  21,L,D
-  40
-
-#lvl_10 (1)
-#+1f Berry
-  18,L,D
-   4,J
-   1,R
-  15,D,X
-  21,D
-   6,L,D
-  14,L,D,X
-   1,L,J
-   5,L,D,X
-   1,L,J,G
-   9,L
-   1,L,J
-   4,L
-   8,L,J
-   5,L,D,X
-   1,L,J,G
-   9,L
-  40
-
-#lvl_10z
-   3,L
-  19,L,D,J
-   1,R,K,G
-   4,L,K
-   5,L
-   6,L,K
-  12,L,U,X
-   2,L,K,G
-   7,L
-   4,Z
-   5,L,J
-   3,J
-  40
-
-#lvl_10zb
-   1,L,J
-   6
-   1,J
-   6
-  20,R,D
-  15,U,X
    1,R,J,G
-   6,R,K,G
-   3,L,K
-   1,R,J,G
-   1,R,K,G
-  15,R
-   1,R,J
+  28,R,D
+  19
    1,S
    1,U,J
    1,O
   31
 
-FileTime: 0:13.583(799)
+FileTime: 0:07.361(433)
