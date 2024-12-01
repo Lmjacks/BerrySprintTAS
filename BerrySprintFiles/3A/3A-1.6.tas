@@ -1,11 +1,5 @@
-#console load 3 4279 -20
-#play,Huge Mess,37
-
-#console load 3 4705.4 -287
-#play,Elevator Shaft,37
-
-#console load 3 2121 -559.9
-#play,Rooftop,37
+console load 3 4279 -20
+play,Huge Mess,37
 
 console load 3
    1
@@ -460,7 +454,7 @@ endrepeat
    8,R,U,Z
   40
 
-#lvl_08-a
+#lvl_08-a (0)
    5,R,U,Z
    1,L
    1,J,G
@@ -1182,35 +1176,83 @@ endrepeat
    2,J,G
   11,L,J
   14,L,U,X
-   1,L,J,G
+# start_berry
+   2,L,J,G
    5,L
-   1,L,J
-   4,L
-  15,U,X
-  17,L
-   4,L,J,G
-   5,L
-  19
-   9,R,Z
-   3,R,J
-  13,R
+   4
+   2,R
+   3
+   7,L
+  15,L,D,X
+  24,D
+  25,L,D
+#Have to wait for the
+#key door to unlock before
+#leaving the room
+   7,L,Z
+   6,L,J
+  40
+
+#lvl_08-a (1)
+  32,L,D
+  40
+
+#lvl_08-x
+  10,L,D
+   6,D
+   6,L,D
+  15,U,Z
+   2,R
+  21,R,K
+  40
+
+#lvl_08-a (2)
+  15,R
+  16,R,U,X
+   2,R,J,G
+   7,R
+#+1f Berry
+  13,R,X
+   2,R,J
+   5,R,U,X
+  40
+
+#lvl_09-b (4)
+   5,R,U,X
+   1,L
+   4,J,G
+  14,R,U,X
+   1,R,J,G
+   5,R
    1,R,J
-  14,R,D,X
-   1,L,J
-   6,L,D,X
-   1,L,J,G
-  12,L
-   1,L,D,J
-   1,J
-   9,L,J
-   4,L
-   9,L,K,G
+   2
+  15,L
+   2
+  15,U,X
+   1,R,J,G
+   3,L,J
+   2,R,K,G
+   7,R
+   4,D,X
+   1,R,J
+   3,R
+   1,R,J
+   6
+  10,L
+   5,L,K,G
+  10,L,C
+   7,L,J
    1,S
    1,D,J
   34
+   2,J
+   1,L,J
 #Elevator Shaft
-   9,U,Z
+  12,U,X
    1,J
+#1:27.720(5160)
+#1:21.430(4790)
+# end_berry
   40
 
 #lvl_09-d
