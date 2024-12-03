@@ -10,7 +10,7 @@ console load 2
    7,R
   40
 
-#lvl_0 (0)
+#lvl_0
    7,R,J
   15,R,D,X
    2,R,J
@@ -24,7 +24,7 @@ console load 2
    3,R,J
   40
 
-#lvl_1 (0)
+#lvl_1
    8,R,J
    7,R
    1,R,J
@@ -34,7 +34,7 @@ console load 2
    4,L,D
   40
 
-#lvl_d0 (0)
+#lvl_d0
    2,L,D
    1,L
    1,L,D

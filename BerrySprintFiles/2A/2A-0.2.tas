@@ -10,7 +10,7 @@ console load 2
    7,R
   40
 
-#lvl_0 (0)
+#lvl_0
    7,R,J
   15,R,D,X
    2,R,J
@@ -140,6 +140,8 @@ console load 2
    4,L,K
   15,L,D,X
   40
+
+#lvl_d1
    2,L,J
   26,L,U,X
    4,L,J
@@ -150,28 +152,34 @@ console load 2
   12,L
    4,L,J
   23,U,X
-   5,L
+   2
+   3,L
   16,R,U,C
-   8,R
-   3,R,K
-  11,R,D,X
+   4,R
+   4,R,J
+   2,R
+  10,R,D,X
    1,S
    1,D,J
   34
-  49,L,D
-  14,L,D,X
-  11,R,K
-  32,U,Z
-  32,U,X
-  14,R,V
-   3,R,K
-   1,R
+  47,L,D
+   1
+   1,L,D
+   1
+  12,L,D,X
+  11,R,J
+  28,U,Z
+   4,R
+  32,U,C
+  13,R,V
+   1,R,K
+   3,R
   14,R,U,X
    1,R,K,G
    8,R
   43
 
-#lvl_d0 (3)
+#lvl_d0 (2)
    1,R
    1,R,J
    5,R
@@ -189,5 +197,5 @@ console load 2
    5,L,J
   15,L,D,X
    5,L,J
-#0:27.200(1600)
+#0:27.132(1596)
   40

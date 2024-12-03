@@ -364,7 +364,7 @@ console load 7
    1,R
   40
 
-#lvl_b-02
+#lvl_b-02 (1)
    5,R
    1,R,J
    1,R,K,G
@@ -2485,7 +2485,7 @@ EndStunPause
    6,J
   40
 
-#lvl_f-07
+#lvl_f-07 (1)
    9,L
    1,J
   11,L,J
