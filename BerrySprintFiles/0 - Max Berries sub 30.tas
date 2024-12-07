@@ -7,7 +7,7 @@ Read,0 - Prologue,Start
 
 Read,LoadANoCollects,Prologue
 
-Read,1A,Start
+Read,1A/1A-0.1,Start
 
 Read,LoadANoCollects
 
