@@ -394,15 +394,37 @@ console load 7
   34,R,J,G
   12,U,Z
    1,J
-  46,R,D
-  18,R,Z
-  16,R,U,V
+# start_berry
+  42,R
+   1,G
+   2,J,G
+   2,L,J
+   7,R,K,G
+   6,R
+   1,R,K
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   3,R
+   6,R,K
+  13,U,X
    1,J
+   1,K
+  15,L
+  22,D
+  15,R,Z
+   1,L
+   2,L,J,G
   34,R
   15,R,U,X
   14,R,Z
    3,R,J
   10,R,U,X
+#0:25.738(1514)
+#0:24.650(1450)
+# end_berry
   40
 
 #lvl_b-09
