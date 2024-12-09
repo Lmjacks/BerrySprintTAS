@@ -1,5 +1,5 @@
-console load 7 5912 -4328
-play,1000M,37
+console load 7 25600 -13432
+play,3000M,37
 
 console load 7
    1

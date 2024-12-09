@@ -1,5 +1,5 @@
-console load 7 25600 -13432
-play,3000M,37
+console load 7 20152 -11416
+play,2500M,37
 
 console load 7
    1
@@ -1446,7 +1446,7 @@ console load 7
   15,R,D,X
   18,R,D,C
 #Spinner Cycle
-   1
+   2
 #-------------
   58,R,X
    9,R,D,C
@@ -1510,24 +1510,66 @@ EndStunPause
    9,R,J
    3,R
   15,R,D,X
+# start_berry
+
+# berry first
    1,L,D
-  16,R,D
-   7,R,Z
+  11,R,D
+   4,R
+   1,R,D
+   4,Z
+   1,R,J
+   2,R
   40
 
 #lvl_f-05 (1)
-   3,R,Z
-   1,R,J
+   1,R,K
    3,R
-   1,R,J
-   3,R
-  20,R,J
-  17,R,U,X
-  14,U,Z
-   6,J
+  17,R,J
+  17,U,X
+  16,U,C
   40
 
-#lvl_f-07
+#lvl_f-07 (1)
+   3,R,J
+   6,L,J
+  12,J
+  15,U,X
+   4,L
+  15,U,C
+   3
+   8,L,J
+   1,K
+   7,L
+   4,D,X
+   1,L,J
+  14,L
+  11,D,X
+   9,R,J,G
+  15,D,X
+  15,R,D,C
+   1,R
+  16,R,D,X
+   1,D
+   1,R,D
+   1,D
+  19,R,D,X
+   2,L,D
+  40
+
+#lvl_f-05 (2)
+   5,R,D
+   5,D
+  16,R,V
+   3
+   1,R
+  15,R,U,Z
+   1,L,J,G
+  12,L,K,G
+  10,J
+  40
+
+#lvl_f-07 (2)
    9,L
    1,J
   11,L,J
@@ -1542,7 +1584,7 @@ EndStunPause
    8,R,J
    1,R,K
    7,R
-   4,Z
+   4,R,D,X
    1,R,J
   14,R
   11,D,X
@@ -1550,15 +1592,13 @@ EndStunPause
    4
   16,D,X
   15,L,D,C
-   2,L,D
-   2,L
+   4,L
   12,D,X
    2,L,J
    2,L
   20,L,D,X
   40
 
-#lvl_f-05 (2)
   15,R,D,X
    1,L,D
    6,R,D
@@ -1580,13 +1620,137 @@ EndStunPause
    5,R
   40
 
-#lvl_f-08
+#lvl_f-08 (1)
    1,R
    1,R,J
    2,R
   15,R,D,X
   15,R
   14,R,U,Z
+#0:27.387(1611)
+#0:22.491(1323)
+# end_berry
+
+
+# keyfirst +1f
+#   1,L,D
+#  16,R,D
+#   7,R,Z
+#  40
+
+#lvl_f-05 (3)
+#   3,R,Z
+#   1,R,J
+#   3,R
+#   1,R,J
+#   3,R
+#  20,R,J
+#  17,R,U,X
+#  14,U,Z
+#   6,J
+#  40
+
+#lvl_f-07 (3)
+#   9,L
+#   1,J
+#  11,L,J
+#   1,R,J
+#   1,L,J
+#   1,K
+#   5,R,K
+#  15,U,X
+#   5,R
+#  15,U,C
+#   2,R
+#   8,R,J
+#   1,R,K
+#   7,R
+#   4,Z
+#   1,R,J
+#  14,R
+#  11,D,X
+#   5,L,J,G
+#   4
+#  16,D,X
+#  15,L,D,C
+#   2,L,D
+#   2,L
+#  12,D,X
+#   2,L,J
+#   2,L
+#  20,L,D,X
+#  40
+
+#lvl_f-05 (4)
+#  22,R,D,X
+#   1,D
+#   1,R,D
+#   1,D
+#   2
+#   1,D
+#   1
+#   4,D,C
+#   7,R,C
+#  23,L,J
+#   5,L
+#  22,L,U,X
+#   1,J
+#   1,R,K,G
+#   1,L,K
+#  14,U,X
+#  40
+
+#lvl_f-07 (4)
+#   1,R
+#   2,R,J
+#   6,L,J
+#  12,J
+#  15,U,X
+#   3,L
+#  15,U,C
+#   3
+#   8,L,J
+#   1,K
+#   7,L
+#   4,D,X
+#   1,L,J
+#  14,L
+#  11,D,X
+#   9,R,J,G
+#  15,D,X
+#  15,R,D,C
+#   1,R
+#  16,R,D,X
+#   1,D
+#   1,R,D
+#   1,D
+#  19,R,D,X
+#   2,L,D
+#  40
+
+#lvl_f-05 (5)
+#   1,L,D
+#  31,R,D
+#  22,R,C
+#  11,R,U,X
+#   1,R,J,G
+#   3,R
+#  12,R,D,X
+#   1,R,J
+#  40
+
+#lvl_f-08 (2)
+#   2
+#  14,R,D,X
+#   2,R,J
+#  15,R,D,X
+#  17,R
+#  30,R,U,X
+#0:27.404(1612)
+#0:22.491(1323)
+# end_berry
+
+
   21,R,X
   15,U,C
    1,L

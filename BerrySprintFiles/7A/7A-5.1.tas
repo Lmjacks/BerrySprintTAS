@@ -1,5 +1,5 @@
-console load 7 25600 -13432
-play,3000M,37
+console load 7 20152 -11416
+play,2500M,37
 
 console load 7
    1
@@ -1410,6 +1410,7 @@ console load 7
 #lvl_f-00
   78
 #2500M
+# start_berry
    4,D,X
    2,R,J
    5,R,K,G
@@ -1420,33 +1421,35 @@ console load 7
   18,R,U,C
   14,R,X
    2,R,J,G
-   1,J
-   1,K,G
-  16,R,K
-   1,R,J,G
-   5,R
+  20,R
+  23,R,X
+  15,D,C
+  11,R,D
+  14,R,X
+  11,R,J
+   1,R
+  15,U,X
+   7,R,C
+   1,J,G
+  10,R
    1
    1,R
-   1,J
-   3,R,J
-   1,J
-   3,R,J
-   1,R,K,G
-   3,R,J,G
-  11,R,Z
-   1,R,J
+   1
    4,R
-  14,R,D,X
-   1,R,J
+  13,R,D
    1,R
-  12,R,D,X
-   3,R,J
-  14,R,D,X
-   1,R,J
-  15,R,D,X
-  18,R,D,C
+   2,R,D
+   1,R
+   6,R,X
+  16,R,J
+  14,R,U,X
+   4,R,J,G
+#0:05.185(305)
+#0:04.233(249)
+# end_berry
+
 #Spinner Cycle
-   1
+   0
 #-------------
   58,R,X
    9,R,D,C

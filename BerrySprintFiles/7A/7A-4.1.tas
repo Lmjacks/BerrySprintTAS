@@ -1,5 +1,5 @@
-console load 7 25600 -13432
-play,3000M,37
+console load 7 14640 -8400
+play,2000M,37
 
 console load 7
    1
@@ -1094,12 +1094,15 @@ console load 7
   11,R
   10,R,U,Z
    6
-  12,R,J
-  14,R,U,X
-   1,R,K,G
+# start_berry
+  22,R,D
+  16,U,X
    6,R,Z
    1,R,J
    1,R
+#0:14.246(838)
+#0:14.059(827)
+# end_berry
   40
 
 #lvl_e-06
