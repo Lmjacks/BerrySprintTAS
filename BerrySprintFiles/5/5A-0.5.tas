@@ -91,18 +91,75 @@ console load 5
    2,R,J
    8,R,D,X
    1,R,J
-   5,R
+# start_berry
+   5,R,K,G
   40
 
 #lvl_a-01 (0)
+   1,K
+  18,R,D,X
+   5,D
+  44,R,D
+   1,D
+   3,R,D
+   2,D
+   2
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
    1,R
+   1,R,K
+   4,R
+   5,R,J
+  14,R,D,X
    1,R,J
-  42,R,D
-  15,R,U,Z
+   9,D,X
+  43
+
+#lvl_a-02
+   8,R,D
+  14,R,D,X
+   3,R,J
+  33,R,D,X
    1,R,J
-  15,R,K
-   1,R,J
-  11,R,K
+   5,R
+   5,R,K,G
+   2,K
+   1,R,K
+   6,K
+   7,L,J
+   4,L
+  18,L,D,C
+   1,L
+   1,L,D
+   1,L
+   4,D,X
+   1,L,J
+   5,L
+  10,L,J
+   2,J
+   3,K,G
+   8,L,K
+  14,L,U,X
+   1,L,J,G
+   4,R,J
+   2,L,K,G
+   1,L,J,G
+   7,L
+  13,L,J
+  14,U,Z
+  40
+
+#lvl_a-01 (1)
+  11,L,J
+  10,L,Z
+  30,U,X
+  32,L,J
+  15,U,X
+#0:16.303(959)
+#0:09.843(579)
+# end_berry
   96,U,C
   43
 
@@ -162,7 +219,7 @@ console load 5
   25,L,D
   40
 
-#lvl_a-01 (1)
+#lvl_a-01 (2)
   28,D
   40,R,D
   20,R,D,X

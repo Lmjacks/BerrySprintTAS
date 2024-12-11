@@ -99,10 +99,24 @@ console load 5
    1,R,J
   42,R,D
   15,R,U,Z
+# start_berry
    1,R,J
   15,R,K
+  12,L,J,G
+   9,K,G
+   5,L
+   1
+   1,L
    1,R,J
-  11,R,K
+  15,L,X
+   8,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   8,R,D,X
+#0:10.659(627)
+#0:09.843(579)
+# end_berry
   96,U,C
   43
 
