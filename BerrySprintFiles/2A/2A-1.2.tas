@@ -202,7 +202,6 @@ console load 2
    1,S
    1,D,O
   34
-***S
 
    2,R,J
   11,R
@@ -354,7 +353,6 @@ console load 2
    4,J
    2
    1,L
-***
   15,U,Z
    5,R
    1,R,J,G
@@ -413,8 +411,8 @@ console load 2
    8,U,X
    5,R,J
   11,R
-   4,Z
+   6,R,Z
    1,R,J
-   5,R
+   3,R
 #0:47.056(2768)
   40

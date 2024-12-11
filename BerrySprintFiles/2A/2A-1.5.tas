@@ -202,7 +202,6 @@ console load 2
    1,S
    1,D,O
   34
-***S
 
    2,R,J
   11,R
@@ -354,7 +353,6 @@ console load 2
    4,J
    2
    1,L
-***
   15,U,Z
    5,R
    1,R,J,G
@@ -442,7 +440,6 @@ console load 2
   40
 
 #lvl_10
-***S
    3,L,D
   50,L,X
    4,R,G
