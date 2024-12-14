@@ -1,6 +1,6 @@
 console clrsav
-console load 5 2288 32
-play,Depths,1
+#console load 5 2288 32
+#play,Depths,1
 
 unsafe
 console load 5
