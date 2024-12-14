@@ -202,8 +202,7 @@ console load 4
   20,U,X
    1,J,G
    7,L
-#+1f Berry
-  11,L,D,X
+  10,L,D,X
   21,R,J
    7,R
    8,R,U,X
@@ -269,7 +268,6 @@ console load 4
   18,L,D,X
    1,L
    2,L,D
-#4SHC
    6,L,V
    1,R,K
    6,R
@@ -309,7 +307,7 @@ console load 4
   12,J,G
   12,K
    4,J
-#0:37.298(2194)
+#0:37.281(2193)
   40
 
 #lvl_b-00
