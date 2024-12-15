@@ -143,6 +143,7 @@ console load 4
   11,R,J
   11,R,X
    7,R,J
+
   11,R,Z
    1,R,J
    1,R
@@ -231,37 +232,187 @@ console load 4
    4,J
   40
 
-#lvl_b-00
-  11,R
-  14,R,U,X
-   1,J,G
-   1
-   3,R,J,G
-   2,J
-   4,R,J
-   1,R
+#lvl_b-00 (0)
+***s
+   2,L
    1,R,K,G
-  12,R,J,G
+   1,R,J,G
+   2,R,K,G
+   5,R
+   6,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   6,R,D,J
    7,R
    1,R,J
-  13,J
-  16,U,X
-   2,R
+   6,R,D,X
+  40
+
+#lvl_b-01
+   4,R,D,X
    2,R,J
-   2,L,J
-   1,K
-   7,L
-   1,L,J
-   2,J
-  14,U,X
-  10,R,J
-  12,R
+   4,R
+  18,G
+   3,U,G
+   5,R,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
    1,R,J
-  15,U,Z
-   2,L
-  15,J
+   1,R
+   1,R,J,G
+   5,R
+   2,R,J
+   5,R
+   1,L
+   1,J,G
+   4
+   2,J,G
+   1,R
+  12
+  15,R,D
+   1
+   4,R
+   1
+   1,R,G
+  14,R,J,G
+  20,U,X
+   2,J
+  12
+  12,L,D
+  12,L
+   1,L,D
+   1,L
+   4,L,D
+   1,G
+   4,L,J,G
+   8,L
   10
    1,L
+   8,D
+   6,R,Z
+   1,L,J
+   6,L
+   1,L,D,J
+   2,L,K
+   1,R,J,G
+  18,L,J
+   1,L
+  14,L,U,X
+   8,L,J,G
+  40
+
+#lvl_b-00 (1)
+***
+   2,L,J
+  15,L,D,X
+  19,L,J
+  16,U,X
+  12,L,J,G
+   8,L,K,G
+   1,J,G
+   6,L
+   1,R
+   1,J
+   7,R,J
+***
+  15,U,X
+   1,L,K,G
+   1
+   4,L,K,G
+   7,L
+   5,R,Z
+   1,L,J
+   3
+   3,L
+  10,L,J
+   5,L,D,X
+  40
+
+#lvl_b-03
+   9,L
+   5,R
+   1,R,D
+  11,R
+   7,R,D
+   1,R
+   1,L,D
+   2,G
+   6
+   1,G
+   3,U,G
+   5,G
+   1,U,G
+   1,G
+   1
+   1,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,L
+   2,L
+   2,L,J
+   2
+   6,R,D,J
+   6,R,K,G
+   1,L,K
+   1,R,K
+   1,R
+  11,J,G
+   1
+   1,L
+  21,R,D,X
+   3,R,D,J
+   3,R
+   1
+   1,R
+   2,R,J
+   8,L,K,G
+   1
+   6,J,G
+   1,K
+   4,L,K
+   4,L,J,G
+   1,R,J
+   1,L,J
+   2,K
+   1
+   1,J
+   3,K,G
+   1,R,K
+   2,R
+   1,R,J,G
+   2,R
+   1
+   4,R
+   5,R,X
+   5,R,J
+  40
+
+#lvl_b-00 (2)
+   5,R,J
+   8,U,X
+  15,R,J
+   4,K
+   5
+   2,L
+   4,Z
+   1,R,J
+   2
+   1,R,K,G
+   5
+   4,R
+  16,R,D,J
+  13,R,U,X
+   1,L
+   1,J,G
+   8,R,J
+   7
   10,R,D,X
    1,R,J
    5,R,K,G
@@ -352,8 +503,8 @@ console load 4
    1,R,K,G
    2,L
    5
-***S
    9,U,X
+#0:54.400(3200)
   40
 
 #lvl_c-00

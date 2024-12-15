@@ -836,6 +836,7 @@ EndRepeat
    1,R,K,G
    5
    4,R
+***S
   16,R,D,J
   14,R,U,X
    1,L,J,G
@@ -851,8 +852,9 @@ EndRepeat
 
 #lvl_b-02 (1)
    4,R
-   1,R,J
-   2,R
+***
+   2,R,J
+   1,R
   23,R,D,X
    7,R,U,Z
    1,L
@@ -964,14 +966,16 @@ EndRepeat
    9,L
    2,L,K
   11,L
+***
    4,X
- 135,D,X
-#Exit
+  99,D
+ 120
+   1,J
+  30,L
    1,S
-   1,D
-   1,J,F,180
-SaveAndQuitReenter
-  36
+   1,D,J
+  69,O
+***
    6,L,Z
    1,L,J
    7,L
@@ -1304,6 +1308,7 @@ SaveAndQuitReenter
   40
 
 #lvl_c-06 (0)
+
    7,R
    1,R,J,G
    6,R,K,G
@@ -1335,6 +1340,7 @@ SaveAndQuitReenter
   10,R,X
    6,R,J
   14,U,X
+***S
   15,L,J
   15,L,X
   16,L
@@ -1372,6 +1378,7 @@ SaveAndQuitReenter
   40
 
 #lvl_c-06 (1)
+***
    1,R
    1,R,J
    5,R

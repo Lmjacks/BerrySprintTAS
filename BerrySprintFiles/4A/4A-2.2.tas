@@ -352,7 +352,6 @@ console load 4
    1,R,K,G
    2,L
    5
-***S
    9,U,X
   40
 
@@ -484,11 +483,36 @@ console load 4
   14,R,J
   15,R,D,X
   31,R
+  31,R,X
+  18,R,U,Z
+   6,L,J,G
+   1,L
+   1,L,J,G
+   1,L
+   1,K
+   3,R,J
+  19,R,D
+   5,D
+   3,L,D
+   1,L
+   1,D
+   1,J
+   6,L,J
+   5,L
+   2,L,J
+   1,J
+   1,K
+   3,L,K
+   1,R,K
+   1,J
+   2,K,G
+  21,L
   15,U,X
    3,L
   15,U,C
    4,L
   12,L,J
+#1:00.860(3580)
   40
 
 #lvl_c-06
