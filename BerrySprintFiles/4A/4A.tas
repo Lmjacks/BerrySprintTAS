@@ -1,5 +1,5 @@
-#console load 4 9391.7 -4360
-#play,Cliff Face,37
+console load 4 9392 -4360.25
+play,Cliff Face,37
 
 console load 4
    1

@@ -352,7 +352,6 @@ console load 4
    1,R,K,G
    2,L
    5
-***S
    9,U,X
   40
 
@@ -524,7 +523,6 @@ console load 4
    6,R,J
   14,U,X
   15,L,J
-***S
   15,L,X
   16,L
   16,L,X
