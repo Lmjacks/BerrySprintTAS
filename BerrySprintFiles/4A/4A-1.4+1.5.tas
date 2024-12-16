@@ -234,7 +234,6 @@ console load 4
   40
 
 #lvl_b-00 (0)
-***S
 
   11,L,K
   10,L,X
@@ -415,18 +414,15 @@ console load 4
   40
 
 #lvl_b-03
-***
-#+1f Berry
+   6,R
+   1,R,J
+  14,R,D,X
+   1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  13,R,D,X
-   2,R,J
-***
-  13,R,D,X
-   2,R,J
-   5,R,X
+   9,R,C
    5,R,J
   40
 
@@ -540,7 +536,7 @@ console load 4
    2,L
    5
    9,U,X
-#1:03.291(3723)
+#1:03.274(3722)
   40
 
 #lvl_c-00

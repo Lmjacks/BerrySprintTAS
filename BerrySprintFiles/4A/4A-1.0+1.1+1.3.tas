@@ -233,7 +233,6 @@ console load 4
   40
 
 #lvl_b-00 (0)
-***s
    2,L
    1,R,K,G
    1,R,J,G
@@ -307,7 +306,6 @@ console load 4
   40
 
 #lvl_b-00 (1)
-***
    2,L,J
   15,L,D,X
   19,L,J
@@ -319,35 +317,26 @@ console load 4
    1,R
    1,J
    7,R,J
-***
   15,U,X
    1,L,K,G
    1
    4,L,K,G
    7,L
-   5,R,Z
+   4,Z
    1,L,J
-   3
-   3,L
-  10,L,J
-   5,L,D,X
+   6,L
+   1,L,J
+   8,L
   40
 
 #lvl_b-03
-   9,L
-   5,R
-   1,R,D
-  11,R
-   7,R,D
-   1,R
-   1,L,D
+  11,L
+  15,R
+   9,R,D
+   1,L
    2,G
    6
-   1,G
-   3,U,G
-   5,G
-   1,U,G
-   1,G
+  11,G
    1
    1,J
    1,L,K,G
@@ -504,7 +493,7 @@ console load 4
    2,L
    5
    9,U,X
-#0:54.400(3200)
+#0:54.349(3197)
   40
 
 #lvl_c-00
