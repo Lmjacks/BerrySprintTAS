@@ -588,6 +588,7 @@ console load 4
    3,J,G
    6,K
    2,J
+***
   15,U,X
   10,J
    3,L,J
@@ -671,6 +672,7 @@ console load 4
    7,R,K
    9,R,J,G
   15,U,X
+***
   16,U,C
   15,L,J
    3,J
@@ -755,6 +757,7 @@ console load 4
    1,R,K
    3,R,J
    7,R
+#1:25.068(5004)
    5,R,Z
    1,R,J
    2,R

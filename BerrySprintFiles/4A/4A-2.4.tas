@@ -352,7 +352,6 @@ console load 4
    1,R,K,G
    2,L
    5
-***S
    9,U,X
   40
 
@@ -535,23 +534,36 @@ console load 4
   18,L,J
    7,L,K,G
    8,G
-   9,R
-   2
+  10,R
+   1
    5,L,J
-   5
-   1,L,J
-   1,L,K,G
-   1,L
+   8,L
    1,K
    1,J,G
+   1
+   1,R
+   1,R,K,G
+  20,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,G
+   8,R,J,G
+  15,L,U,Z
+   1,K,G
+   1,R,K
+   9,L,K
+   1,L
+  10,J,G
    2
-  26,R,K,G
-  15,U,X
-   2,R
+   1,K
+  11,J,G
+   8,R,J
    4,L,K,G
-   3
-   4,R
+   2,L
+   5
   11,U,X
+#1:06.249(3897)
   40
 
 #lvl_c-09

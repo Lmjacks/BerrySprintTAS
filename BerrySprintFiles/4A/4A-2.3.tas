@@ -529,7 +529,6 @@ console load 4
   16,L
   16,L,X
 #+4f Berry
-***
    4,Z
    8,L,J
    4,L
@@ -554,7 +553,6 @@ console load 4
   13,D,X
    1,S
    1,D,J
-#1:05.586(3858)
   69,O
    2,R,J
    5,R,Z
@@ -563,7 +561,6 @@ console load 4
   40
 
 #lvl_c-06 (1)
-***
    1,R
    1,R,J
    5,R
@@ -576,37 +573,27 @@ console load 4
    2,J,G
   16,U,X
   15,L,J
+##
   11
    1,G
-  10,R
-   1
+   9,R
+   2
    5,L,J
-   8,L
+   5
+   1,L
+   1,L,K,G
+   1,L
    1,K
    1,J,G
-   1
-   1,R
-   1,R,K,G
-  20,R,D
-   1,D
-   1,R,D
-   1,D
-   1,R,G
-   8,R,J,G
-  15,L,U,Z
-   1,K,G
-   1,R,K
-   9,L,K
-   1,L
-  10,J,G
    2
-   1,K
-  11,J,G
-   8,R,J
+  26,R,K,G
+  15,U,X
+   2,R
    4,L,K,G
-   2,L
-   5
+   3
+   4,R
   11,U,X
+#1:10.618(4154)
   40
 
 #lvl_c-09
