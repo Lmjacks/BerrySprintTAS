@@ -445,7 +445,6 @@ EndRepeat
   40
 
 #lvl_b-00 (0)
-***S
 
    2,L
    1,R,K,G
@@ -581,7 +580,6 @@ EndRepeat
   43
 
 #lvl_b-00 (2)
-***
    6,R
    3,K,G
    1,L,K
@@ -836,7 +834,6 @@ EndRepeat
    1,R,K,G
    5
    4,R
-***S
   16,R,D,J
   14,R,U,X
    1,L,J,G
@@ -852,7 +849,6 @@ EndRepeat
 
 #lvl_b-02 (1)
    4,R
-***
    2,R,J
    1,R
   23,R,D,X
@@ -966,7 +962,6 @@ EndRepeat
    9,L
    2,L,K
   11,L
-***
    4,X
   99,D
  120
@@ -975,7 +970,6 @@ EndRepeat
    1,S
    1,D,J
   69,O
-***
    6,L,Z
    1,L,J
    7,L
@@ -1340,7 +1334,6 @@ EndRepeat
   10,R,X
    6,R,J
   14,U,X
-***S
   15,L,J
   15,L,X
   16,L
@@ -1378,7 +1371,6 @@ EndRepeat
   40
 
 #lvl_c-06 (1)
-***
    1,R
    1,R,J
    5,R
@@ -1588,7 +1580,6 @@ EndRepeat
   40
 
 #lvl_d-00
-***S
    1,R,J,G
   10,R
    1,R,J
