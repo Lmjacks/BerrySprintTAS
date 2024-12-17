@@ -1,4 +1,4 @@
-FileTime:
+FileTime: 24:48.078(87534)
 #Start from Begin
 
 Read,../StartFullGameFile
@@ -21,13 +21,9 @@ Read,../LoadA
 
 Read,4A_subWR,Start
 
-Read,../LoadANoCollects
+Read,../LoadA
 
-Read,5HC_subWR,Start
-
-# above ends with
-# 257
-#   1,J
+Read,5AC_subWR,Start,Exit
 
 Read,../LoadBFromA
 
