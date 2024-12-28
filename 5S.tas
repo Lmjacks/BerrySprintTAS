@@ -328,34 +328,43 @@ console load 5
    4,R,D
   11,R,D,J
    5,R
-   2,R,J
-   6,R
+   3,R,J
+   5,R
   40
 
 #lvl_a-10 (1)
-   6,R
-   1
+   7,R
+   5,R,D
    1,R
-   3
-  12,R,D,X
-   1,L,J
-   5,R
+   1,R,D
+   1,R
+   4,Z
    1,R,J
-  13,R,U,X
-   1,R,J,G
-   6,R,K,G
+   1,R
+   4
+   1,D
+   2,R,J
+   1,L,K,G
+   1,R,K
+  12,R,U,X
+   3,R,J,G
   40
 
 #lvl_a-08 (2)
-   6,R,K
-   6,R
-   4,R,K
+   2,R,J
+   4,R,K,G
+   1,K
+   5
+   2,J
    7
+   1,L,D,J
   40
 
 #lvl_a-12 (0)
+   4
    1,R
-  11,R,U,V
+   1,R,J
+   7,R,U,X
    9,J,G
   18
   22,L,D
@@ -3117,4 +3126,4 @@ EndStunPause
    1,S
    1,D,J
   18
-FileTime: 6:25.373(22669)
+FileTime: 6:25.288(22664)
