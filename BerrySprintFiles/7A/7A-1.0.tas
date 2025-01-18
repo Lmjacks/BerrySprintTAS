@@ -210,16 +210,22 @@ console load 7
   13,L,J
   15,U,X
    7,R,J
-  10,L,J
+***S
+   8,L,J
+   2,R,J
   15,U,X
-   3,J
-  15,R,J
-   3,K
+   6,R,J
+   8,L,J
+   1,J
+   7,L,K
   40
 
 #lvl_b-01
+   2,L
+   1,N
    3
-   8,L
+   2,R
+   3
   14,U,X
    5,R,J
    7,R,Z
@@ -230,47 +236,42 @@ console load 7
   14,R,U,C
    1,L,J,G
    5,R,J
-  22,R
-   3,R,D
+  21,R
+   2,R,D
+   1,R
+   1,R,D
    1,R,K,G
    5
-   4,J
+   3,J
    1,R,J
+   1,J
    1
    1,J
    7
-   6,L,U,X
+   6,L,X
   23,R
   14,R,X
    2,R,J,G
-   2,R
-  15,R,D,X
-  10,D
-   2
-   4,D,X
+   3,R
+  27,R,D,X
    1,R,J
-   1,R
+   5,R,D,C
   40
 
 #lvl_b-02
-   5,R
-   1,R,J
-   1,R,K,G
-   5,R
-   1,R,K
-   4,R
-# start_berry
-  11,R,J
+   2,R,J
+   3,R
+  20,R,J,G
    1,J
-   3,R,J
+   2,R,J
   15,R,U,X
   14,U,Z
    4,J
    5,R,J
    1,R
+# start_berry
    1,K,G
-   1,R
-   1,R
+   2,R
    1
    1,R
    1
@@ -306,8 +307,8 @@ console load 7
    6,R,Z
    1,R,J
    7,R
-#0:10.132(596)
-#0:08.840(520)
+#0:10.098(594)
+#0:08.806(518)
 # end_berry
   40
 
