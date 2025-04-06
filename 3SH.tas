@@ -103,7 +103,7 @@ console load 3
    5,R,U,X
   40
 
-#lvl_s3
+#lvl_s3 (0)
   12,R,U,X
   17,R,U,C
    1,R,J,G
@@ -874,7 +874,7 @@ Endrepeat
    8,R,U,Z
   40
 
-#lvl_08-a
+#lvl_08-a (0)
    5,R,U,Z
    1,L
    1,J,G
@@ -1518,7 +1518,7 @@ SaveAndQuitReenter
   15,L,D
   40
 
-#lvl_11-y
+#lvl_11-y (0)
    1,D
   10,L,D,X
    4,L,J
@@ -1957,7 +1957,7 @@ SaveAndQuitReenter
    1,L
   40
 
-#lvl_04-d
+#lvl_04-d (0)
   15,L,D
    6,R,D
    9,L,D

@@ -73,7 +73,7 @@ Read,../3SH,lvl_02-b (1),lvl_09-b (0)
 Read,../3A,lvl_09-b (0),lvl_11-y
 
 #lvl_11-y (0)
-Read,../3SH,lvl_11-y,lvl_11-y (1)
+Read,../3SH,lvl_11-y (0),lvl_11-y (1)
 
 #lvl_11-y (1)
    1
